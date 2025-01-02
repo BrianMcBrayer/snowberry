@@ -3,6 +3,7 @@
 # Installation and Usage
 
 ## First Time
+- clone this repository to a local directory
 - install uv (https://docs.astral.sh/uv/getting-started/installation/)
 - copy the .env.example file and to .env and fill in your CFBD API key
 
